@@ -1,0 +1,5 @@
+{
+  "name": "Bengaluru AI Startups Chatbot",
+  "description": "An interactive chatbot providing detailed insights into Bengaluru's AI startup ecosystem. Users can ask questions about top startups, funding, technology, and market trends in both English and Kannada.",
+  "requestFramePermissions": []
+}
